@@ -20,8 +20,8 @@ terminal-border: "0"
   width = 28%
   height = 60%
   item_font = "GoogleSans Regular 32"
-  item_color = "#cccccc"
-  selected_item_color = "#e91e63"
+  item_color = "#cfd8dc"
+  selected_item_color = "#00bcd4"
   icon_width = 72
   icon_height = 72
   item_height = 72
@@ -37,6 +37,6 @@ terminal-border: "0"
   align = "center"
   id = "__timeout__"
   text = "Booting in %d seconds"
-  color = "#cccccc"
+  color = "#cfd8dc"
   font = "GoogleSans Regular 32"
 }
